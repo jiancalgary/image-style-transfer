@@ -1,1 +1,2 @@
-# Image transfer using CNN
+# Image Style transfer using CNN
+## In this project, we are going to create remarkable style transfer effects. In order to do so, we will have to get a deeper understanding of how Convolutional Neural Networks and its layers work. By the end of this article, you will be able to create a style transfer application that is able to apply a new style to an image while still preserving its original content.
